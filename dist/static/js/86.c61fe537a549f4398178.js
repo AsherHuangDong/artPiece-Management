@@ -1,0 +1,2 @@
+webpackJsonp([86],{"+6ea":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)},staticRenderFns:[]};var a=n("C7Lr")({name:"tradeManagement"},r,!1,function(e){n("YQIV")},"data-v-03416bc6",null);t.default=a.exports},YQIV:function(e,t){}});
+//# sourceMappingURL=86.c61fe537a549f4398178.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([47],{DVc6:function(e,t){},Glfg:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)},staticRenderFns:[]};var a=n("C7Lr")({name:"publicManagement"},r,!1,function(e){n("DVc6")},"data-v-54e204d6",null);t.default=a.exports}});
+//# sourceMappingURL=47.fe7d4d42cbc02adf04a2.js.map

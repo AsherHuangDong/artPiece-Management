@@ -1,0 +1,2 @@
+webpackJsonp([72],{IYmI:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("staffManagementFreeze")])},staticRenderFns:[]};var r=n("C7Lr")({name:"staffManagementFreeze"},a,!1,function(e){n("ywJM")},"data-v-15c8d1d3",null);t.default=r.exports},ywJM:function(e,t){}});
+//# sourceMappingURL=72.f93afcbedd1912856039.js.map

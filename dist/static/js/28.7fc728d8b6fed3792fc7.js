@@ -1,0 +1,2 @@
+webpackJsonp([28],{"8jfJ":function(e,n){},NE67:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("newsManagementOrderBy")])},staticRenderFns:[]};var a=t("C7Lr")({name:"newsManagementOrderBy"},r,!1,function(e){t("8jfJ")},"data-v-7cbae7f2",null);n.default=a.exports}});
+//# sourceMappingURL=28.7fc728d8b6fed3792fc7.js.map

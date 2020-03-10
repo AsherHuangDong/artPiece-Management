@@ -1,0 +1,2 @@
+webpackJsonp([83],{"37x4":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={name:"staffManagementDelete",components:{deleteModal:n("Bbh0").a}},r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("delete-modal")],1)},staticRenderFns:[]};var c=n("C7Lr")(a,r,!1,function(e){n("u/EM")},"data-v-09b87dfc",null);t.default=c.exports},"u/EM":function(e,t){}});
+//# sourceMappingURL=83.925236b6c00fda70c81d.js.map

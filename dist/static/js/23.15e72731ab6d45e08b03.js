@@ -1,0 +1,2 @@
+webpackJsonp([23],{W6WV:function(e,t){},fVbe:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("copyrightManagementOrderBy")])},staticRenderFns:[]};var a=n("C7Lr")({name:"copyrightManagementOrderBy"},r,!1,function(e){n("W6WV")},"data-v-93f90b1e",null);t.default=a.exports}});
+//# sourceMappingURL=23.15e72731ab6d45e08b03.js.map

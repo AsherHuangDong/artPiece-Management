@@ -1,0 +1,2 @@
+webpackJsonp([52],{"/WAQ":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)},staticRenderFns:[]};var a=n("C7Lr")({name:"contentManagement"},r,!1,function(e){n("kXsp")},"data-v-4f4bc71e",null);t.default=a.exports},kXsp:function(e,t){}});
+//# sourceMappingURL=52.11b78e74d435102b95f6.js.map
